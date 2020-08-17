@@ -14,6 +14,7 @@
   <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-34495E?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Eris" src="https://img.shields.io/badge/-Eris-7289DA?style=flat-square&logo=discord&logoColor=white" />
   <img alt="Atom" src="https://img.shields.io/badge/-Atom-121212?style=flat-square&logo=atom&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 </p>
 <h4>Need to find me on other platforms? <a href="https://larkin.space">Check my website!</a></h4>
 
