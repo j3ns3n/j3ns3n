@@ -5,20 +5,33 @@
 
 <p>I'm Jensen, a developer living in <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png" width="30"/> <b>England</b>. </p>
 
-<h3>Things I code with</h3>
+<h3>Things I code with:</h3>
+<h4>Languages</h4>
 <p>
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+<h4>Databases</h4>
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+</p>
+<h4>Frameworks</h4>
+<p>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
+  <img alt="Quasar" src="https://img.shields.io/badge/Quasar-15a5ff?logo=quasar&logoColor=fff" />
+  <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
+</p>
+<h4>Tools</h4>
+<p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-34495E?style=flat-square&logo=Vue.js&logoColor=white" />
-  <img alt="Eris" src="https://img.shields.io/badge/-Eris-7289DA?style=flat-square&logo=discord&logoColor=white" />
-  <img alt="Atom" src="https://img.shields.io/badge/-Atom-121212?style=flat-square&logo=atom&logoColor=white" />
+  <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
 </p>
 <h4>Need to find me on other platforms? <a href="https://larkin.space">Check my website!</a></h4>
-
-<h4>Want to send me an encrypted message?</h4>
-<a href="https://github.com/j3ns3n/j3ns3n/blob/master/public_key.pgp"><img alt="PGP Key" src="https://img.shields.io/badge/-PGP%20Key-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAABP0lEQVRIS+3VMS8EURSG4WepCAWV6DQKKo2gU4poRCl6nUYt0UkkotErlBrhN0gkVChQ8AMkohCJBLmym0wmc81MzO4q5laTOed+7znfPTO3oUur0SWuGtwx52uru2r1V4Re6bEkxdZxkNPyEVarsKUFXsJJQcFN7BbMjaa1wGl707bmxUvXEQBXmErsjJ1lEv6J3tK0FCQpOIfzXwRjg1e2huvQXVIsb3KrAv9cEv8CvIXtiG+DeE3EpjPyLprvQmwH85jBLPawgkdcho4PsVZyuN7RlwFuuRd0j7GMHizgDOO4D/tin9M+NprCE7hJQfImvzB4GM8FR3MSt5Hc0FFYdxjBAB7Qj1E84SPZcXgO1r3lwMeaZ1SwxnhalmWnWExtecHQn2kFBqlKRqZW3g+jbQXU4LZZmxaure6Y1d+81DHwsHs/HgAAAABJRU5ErkJggg==" /></a>
